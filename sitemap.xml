@@ -7,7 +7,7 @@
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-  <loc>https://sequentec.com/index.html</loc>
+  <loc>https://sequentec.com/</loc>
   <lastmod>2020-08-03T13:53:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -77,11 +77,5 @@
   <lastmod>2020-08-03T13:53:13+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-<url>
-  <loc>https://sequentec.com/Software%20Project%20Management.html</loc>
-  <lastmod>2020-08-03T13:53:13+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-
 
 </urlset>
