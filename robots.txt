@@ -1,4 +1,4 @@
 User-agent: Googlebot
 Disallow: /mysecretpage
 Crawl-delay: 5
-Sitemap: https://www.sequentec.com/sitemap.xml
+Sitemap: https://sequentec.com/sitemap.xml
