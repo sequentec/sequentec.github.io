@@ -1,1 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"><url>  <loc>https://sequentec.com/</loc>  </url><url>  <loc>https://sequentec.com/About%20Sequentec.html</loc>  </url><url>  <loc>https://sequentec.com/Target%20Industries.html</loc>  </url><url>  <loc>https://sequentec.com/Sequentec%20Team.html</loc>  </url><url>  <loc>https://sequentec.com/Software%20Product%20Development%20Service.html</loc>  </url><url>  <loc>https://sequentec.com/Web%20Application%20Development.html</loc>  </url><url>  <loc>https://sequentec.com/Cloud%20Application%20Development.html</loc>  </url><url>  <loc>https://sequentec.com/Progressive%20Web%20App%20Development.html</loc>  </url><url>  <loc>https://sequentec.com/Custom%20Application%20Development%20Service.html</loc>  </url><url>  <loc>https://sequentec.com/Legacy%20Migration%20Service.html</loc>  </url><url>  <loc>https://sequentec.com/Application%20Modernization%20Service.html</loc>  </url><url>  <loc>https://sequentec.com/Application%20Maintenance%20Service.html</loc>  </url><url>  <loc>https://sequentec.com/Rapid%20Application%20Development%20Engine%20AppFlex.html</loc>  </url><url>  <loc>https://sequentec.com/Human%20Resource%20Management%20System%20HRMS.html</loc>  </url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://sequentec.com/</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/About%20Sequentec.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Target%20Industries.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Sequentec%20Team.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Software%20Product%20Development%20Service.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Web%20Application%20Development.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Cloud%20Application%20Development.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Progressive%20Web%20App%20Development.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Custom%20Application%20Development%20Service.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Legacy%20Migration%20Service.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Application%20Modernization%20Service.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Application%20Maintenance%20Service.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Rapid%20Application%20Development%20Engine%20AppFlex.html</loc>
+    </url>
+    <url>
+        <loc>https://sequentec.com/Human%20Resource%20Management%20System%20HRMS.html</loc>
+    </url>
+</urlset>
