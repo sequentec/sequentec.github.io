@@ -1,1 +1,2 @@
-RewriteRule ^(.*).aspx$ / [QSA]
+RewriteEngine On
+ErrorDocument 404 /
