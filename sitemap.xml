@@ -1,47 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-    <url>
-        <loc>https://sequentec.com/</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/About-Sequentec.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Target-Industries.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Sequentec-Team.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Software-Product-Development-Service.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Web-Application-Development.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Cloud-Application-Development.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Progressive-Web-App-Development.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Custom-Application-Development-Service.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Legacy-Migration-Service.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Application-Modernization-Service.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Application-Maintenance-Service.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Rapid-Application-Development-Engine-AppFlex.html</loc>
-    </url>
-    <url>
-        <loc>https://sequentec.com/Human-Resource-Management-System-HRMS.html</loc>
-    </url>
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sequentec.com/</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/About-Sequentec.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Target-Industries.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Sequentec-Team.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Software-Product-Development-Service.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Web-Application-Development.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Cloud-Application-Development.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Progressive-Web-App-Development.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Custom-Application-Development-Service.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Legacy-Migration-Service.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Application-Modernization-Service.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Application-Maintenance-Service.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Rapid-Application-Development-Engine-AppFlex.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS/Company-Asset-Management-Tracking-Monitoring-Software.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS/Company-Internal-Hiring-System.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS/Employee-Grievance-Redressal-Management-Software.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS/Employee-Hiring-Onboarding-System.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS/Employee-Leave-and-Attendance-Management-System.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS/Employee-Payroll-Processing-Management-Software.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS/Employee-Performance-Appraisal-Management-Software.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS/Employee-Training-Talent-Management-System.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS/Job-Recruitment-Portal.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sequentec.com/Human-Resource-Management-System-HRMS/Recruitment-Management-System.html</loc>
+  <lastmod>2020-08-07T05:04:05+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
